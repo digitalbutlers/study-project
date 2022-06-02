@@ -16,7 +16,7 @@
 		"lint-js": "npx eslint --fix src/**/*.js",
 		"clear-build-dir": "npx cf build"
 	},
-	"author": "kirillsakun",
+	"author": "sergeytrubkin",
 	"license": "ISC",
 	"devDependencies": {
 		"autoprefixer": "^9.8.8",
